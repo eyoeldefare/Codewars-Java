@@ -28,7 +28,6 @@ public class isogram {
 			if (letters[i] == letters[i + 1]) {
 				return false;
 			}
-			
 		}
 		return true;
 	}
