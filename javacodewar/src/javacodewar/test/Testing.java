@@ -17,7 +17,7 @@ public class Testing {
 		assertEquals(Thirteen.thirt(987654321), 30);
 	}
 
-	@Test
+	@Test 
 	public void LongestConsec() {
 		assertEquals(LongestConsec.longestConsec(new String[] {"zone", "abigail", "theta", "form", "libe", "zas", "theta", "abigail"}, 2), "abigailtheta");
 		assertEquals(LongestConsec.longestConsec(new String[] {"ejjjjmmtthh", "zxxuueeg", "aanlljrrrxx", "dqqqaaabbb", "oocccffuucccjjjkkkjyyyeehh"}, 1), "oocccffuucccjjjkkkjyyyeehh");
