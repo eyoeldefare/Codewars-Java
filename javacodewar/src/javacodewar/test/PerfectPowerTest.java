@@ -7,7 +7,6 @@ import org.junit.Test;
 import javacodewar.PerfectPower;
 
 import java.util.Random;
-import org.junit.Test;
 import static java.lang.Math.log;
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;
